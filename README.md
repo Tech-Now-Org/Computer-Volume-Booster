@@ -39,6 +39,7 @@
    - The script will detect your operating system and adjust the volume accordingly.
    - Enjoy your amplified system volume!
 
+
 ### Tips:
 - **Permissions**: Run the script with appropriate permissions, especially on macOS and Linux.
 - **Volume Caution**: Be mindful of volume levels to prevent distortion or speaker damage.
