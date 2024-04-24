@@ -1,6 +1,6 @@
 
 
-🔊 **Boost Your System Volume to max**
+🔊 **Boost Your System Volume to Max**
 
 ### Quick Start Guide
 
